@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eab964a5-b6fb-4fd1-a17a-e2e2c3321106</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.phptravels.net/admin'</defaultValue>
+      <description></description>
+      <id>c3bba375-9b7a-449d-b794-f5f423ed1015</id>
+      <masked>false</masked>
+      <name>adminUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin@phptravels.com'</defaultValue>
+      <description></description>
+      <id>29f53d5a-e641-4602-89f6-89642124349a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'demoadmin'</defaultValue>
+      <description></description>
+      <id>332dc714-1a5c-4440-8f5d-c3a3fc3acbc0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
